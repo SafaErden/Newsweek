@@ -1,0 +1,54 @@
+body {
+  background-color: #f4f5f6;
+  color: #333;
+  font-size: 13px;
+  line-height: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+nav {
+  background-color: #f72210;
+  line-height: 0;
+}
+
+.roboto {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.container {
+  max-width: 1310px;
+}
+
+.brand-svg {
+  fill: white;
+  width: 396px;
+  height: 60px;
+  transform: translate(-50%, 0);
+  top: 10px;
+  left: 50%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.brand-svg-mini {
+  fill: white;
+  width: 132px;
+  height: 20px;
+  margin-right: 20px;
+}
+
+.fancy-border {
+  position: absolute;
+  top: 0;
+  right: 0;
+  content: "";
+  display: block;
+  width: 75px;
+  background-color: #f72210;
+  border-left: 12px solid white;
+  border-top: 13px solid #f72210;
+}
+
+.hamburger {
+  color: #fb9a94;
+}
