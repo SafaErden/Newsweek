@@ -37,10 +37,10 @@
 
 👤 **Safa ERDEN**
 
-- Github: [@githubhandle](https://github.com/SafaErden)
-- Twitter: [@twitterhandle](https://twitter.com/safaerden)
-- Linkedin: [linkedin](https://www.linkedin.com/in/safaerden/)
-- Email: [safa](mailto:safaerden@gmail.com)
+- Github: [@safaerden](https://github.com/SafaErden)
+- Twitter: [@safaerden](https://twitter.com/safaerden)
+- Linkedin: [SafaErden](https://www.linkedin.com/in/safaerden/)
+- Email: [safaerden](mailto:safaerden@gmail.com)
 
 ## 🤝 Contributing
 
@@ -54,5 +54,5 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- TheOdinProject.com PROJECT: POSITIONING AND FLOATING ELEMENTS
+- TheOdinProject.com PROJECT: USING BOOTSTRAP
 
