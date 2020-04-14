@@ -84,3 +84,9 @@ nav {
 .bg-light-gray {
   background-color: #c2d4d7;
 }
+
+.card-horizon {
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border-top: 1px solid #ddd;
+}
