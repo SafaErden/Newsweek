@@ -1,5 +1,7 @@
-window.onscroll = function() {scrollFunction()};
-
+window.onscroll = function () {
+  scrollFunction();
+};
+/*
 function scrollFunction() {
     if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
         document.getElementById("header1").style.display = "none";
@@ -9,3 +11,4 @@ function scrollFunction() {
         document.getElementById("header2").style.display = "none";
     }
   }
+  */

@@ -15,6 +15,14 @@ nav {
   font-family: "Roboto Condensed", sans-serif;
 }
 
+.ariel {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.lora {
+  font-family: "Lora", serif;
+}
+
 .container {
   max-width: 1310px;
 }
@@ -54,4 +62,25 @@ nav {
 }
 .text-nw {
   color: #f72210;
+}
+.block-title {
+  color: rgba(3, 3, 3, 0.4);
+  text-transform: uppercase;
+  padding-bottom: 11px;
+}
+
+.card-title a:hover {
+  text-decoration: underline #f72210;
+}
+
+.text-dark {
+  color: black !important;
+}
+
+.bottom {
+  bottom: 0;
+}
+
+.bg-light-gray {
+  background-color: #c2d4d7;
 }
