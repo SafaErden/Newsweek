@@ -45,6 +45,13 @@ nav {
   margin-right: 20px;
 }
 
+.brand-svg-footer {
+  fill: #f72210;
+  width: 236px;
+  height: 36px;
+  margin-right: 20px;
+}
+
 .fancy-border {
   position: absolute;
   top: 0;
@@ -63,6 +70,11 @@ nav {
 .text-nw {
   color: #f72210;
 }
+
+.bg-nw {
+  background-color: #f72210;
+}
+
 .block-title {
   color: rgba(3, 3, 3, 0.4);
   text-transform: uppercase;
@@ -83,6 +95,10 @@ nav {
 
 .bg-light-gray {
   background-color: #c2d4d7;
+}
+
+.bg-light-gray2 {
+  background-color: #f4f5f6;
 }
 
 .card-horizon {
