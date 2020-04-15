@@ -1,0 +1,154 @@
+body {
+  background-color: #f4f5f6;
+  color: #333;
+  font-size: 13px;
+  line-height: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+
+nav {
+  background-color: #f72210;
+  line-height: 0;
+}
+
+#nav {
+  display: none;
+}
+
+.roboto {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.ariel {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.lora {
+  font-family: "Lora", serif;
+}
+
+.container {
+  max-width: 1310px;
+}
+
+.brand-svg {
+  fill: white;
+  width: 396px;
+  height: 60px;
+  transform: translate(-50%, 0);
+  top: 10px;
+  left: 50%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.brand-svg-mini {
+  fill: white;
+  width: 132px;
+  height: 20px;
+  margin-right: 20px;
+}
+
+.brand-svg-footer {
+  fill: #f72210;
+  width: 236px;
+  height: 36px;
+  margin-right: 20px;
+}
+
+.fancy-border {
+  position: absolute;
+  top: 0;
+  right: 0;
+  content: "";
+  display: block;
+  width: 75px;
+  background-color: #f72210;
+  border-left: 12px solid white;
+  border-top: 13px solid #f72210;
+}
+
+.hamburger {
+  color: #fb9a94;
+}
+
+.text-nw {
+  color: #f72210;
+}
+
+.bg-nw {
+  background-color: #f72210;
+}
+
+.block-title {
+  color: rgba(3, 3, 3, 0.4);
+  text-transform: uppercase;
+  padding-bottom: 11px;
+}
+
+.card-title a:hover {
+  text-decoration: underline #f72210;
+}
+
+.text-dark {
+  color: black !important;
+}
+
+.bottom {
+  bottom: 0;
+}
+
+.bg-light-gray {
+  background-color: #c2d4d7;
+}
+
+.bg-light-gray2 {
+  background-color: #f4f5f6;
+}
+
+.card-horizon {
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border-top: 1px solid #ddd;
+}
+
+.icon-n {
+  flex: none;
+  display: block;
+  width: 29px;
+  height: 28px;
+  background:
+    url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain
+    no-repeat #f72210;
+  margin-right: 10px;
+}
+
+.dabate-red {
+  border-top: 4px solid #f72210;
+}
+
+.dabate-blue {
+  border-top: 4px solid #1c87fb;
+}
+
+.debate-double {
+  border-top: 1px solid #c2d4d7;
+  border-bottom: 1px solid #c2d4d7;
+  height: 5px;
+}
+
+.debate-double img {
+  width: 70px;
+  height: 70px;
+  top: -10px;
+  right: 20px;
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+  .sponsor {
+    max-width: 330px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
