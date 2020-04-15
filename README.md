@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/SafaErden/Newsweek/23127419cd29bf77533e45a772dd1cc6d4a2b78e/index.html)
+[Live Demo Link](https://safaerden.github.io/Newsweek/)
 
 ### Prerequisites
 
